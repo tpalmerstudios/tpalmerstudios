@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tpalmerstudios
 - 👀 I’m interested in low-level programming and hardware
-- 🌱 I’m currently learning Lua (for Naev)
+- 🌱 I’m currently learning Lua (for Naev) and HLA (Assembly)
 - 💞️ I’m looking to collaborate on beginner projects with a backend API
 - 📫 How to reach me obsoleteTiger@protonmail.com
 
