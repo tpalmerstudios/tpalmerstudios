@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @tpalmerstudios
+- (Been sick with pneumonia so I took a little break.)
 - 👀 I’m interested in low-level programming and hardware
 - 🌱 I’m currently learning Lua (for Naev) and HLA (Assembly)
 - (Taking a break from that because I have ADHD)
